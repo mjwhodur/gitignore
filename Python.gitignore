@@ -109,3 +109,8 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+# Various IDE Environments
+.idea/ # For IntelliJ Family (I.e. PyCharm) 
+.vscode/
+.atom/
